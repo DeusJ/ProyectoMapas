@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProyectoMapas</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_maps2">Map</string>
+    <string name="title_activity_maps_direction">Map</string>
+    <string name="title_activity_maps_nuevos">Map</string>
+</resources>
